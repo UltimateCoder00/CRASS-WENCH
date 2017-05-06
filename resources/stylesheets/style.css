@@ -1,0 +1,34 @@
+body {
+  background-color: #72DAFC;
+  font-family: helvetica;
+}
+
+.title-div{
+  text-align: center;
+  margin: auto;
+  background-color: #00AEE8;
+  height: 20%;
+  width: 100%;
+}
+
+.note-input-div{
+  text-align: center;
+  margin: auto;
+  background-color: #46869C;
+  width: 80%;
+}
+#create-note-button{
+  width: 80%;
+}
+#note-input-field{
+  margin: auto;
+  width: 80%;
+  height: 60%;
+}
+
+.note-list-div{
+  margin: auto;
+  background-color:#46869C;
+  height:200px;
+  width: 80%;
+}
